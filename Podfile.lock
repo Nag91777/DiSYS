@@ -1,0 +1,20 @@
+PODS:
+  - SwiftKeychainWrapper (3.3.0)
+  - Toast-Swift (5.0.0)
+
+DEPENDENCIES:
+  - SwiftKeychainWrapper
+  - Toast-Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SwiftKeychainWrapper
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  SwiftKeychainWrapper: ef5ad793bc0e08e24a5913f28345b8f7bc8e4123
+  Toast-Swift: 36f4720243c8582c2be243a60a51e193c761f541
+
+PODFILE CHECKSUM: 1f730379437b7a3dfd97776fdb5ec41fdb54c118
+
+COCOAPODS: 1.6.1
